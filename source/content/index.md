@@ -1,7 +1,4 @@
 ---
-title: My GitHub Pages Notebook!
+title: defectum
 ---
-
-Hello world!
-
-Write some words here!
+- [[defectum]] - *June 13th 2025*
