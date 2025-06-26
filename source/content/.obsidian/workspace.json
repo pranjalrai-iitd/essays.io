@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "acfd44533e268974",
+        "id": "736afce4ff8c3fd1",
         "type": "tabs",
         "children": [
           {
-            "id": "0812838551085adb",
+            "id": "2f2b8a68d724260c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,11 +165,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0812838551085adb",
+  "active": "2f2b8a68d724260c",
   "lastOpenFiles": [
+    "defectum....md",
+    "The job of the artist is always to deepen the mystery....md",
     "index.md",
-    "The job of the artist is always to deepen the mystery.md",
-    "defectum.md",
     "category-folder/index.md",
     "category-folder/Some note.md",
     "category-folder"
