@@ -3,5 +3,9 @@ title: Essays
 ---
 
 ---
-- [[defectum]] - *June 13th 2025*
+*June 13th 2025*
+- [[defectum]]
+---
+*June 26th 2025*
+- [[The job of the artist is always to deepen the mystery]]
 ---
