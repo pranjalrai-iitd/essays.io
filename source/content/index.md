@@ -1,5 +1,5 @@
 ---
-title: *defectum* - Defected Essays
+title: Defected Essays
 ---
 
 ---
