@@ -1,5 +1,5 @@
 ---
-title: Defected Essays
+title: Essays
 ---
 
 ---
