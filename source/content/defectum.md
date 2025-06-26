@@ -49,10 +49,11 @@ Individual conviction is also an insurance against failures. It is said that if 
 
 The Japanese art of _"Kintsugi"_ is perfect example of how failure makes one beautiful. The term is made of two Japanese words, "_Kin"_  meaning "_Gold"_ and _"Tsugi"_ meaning "_Joinery"_. Thus, Kintsugi means "gold-joinery". It is an ancient art form where broken porcelain utensils and jars were rejoined with with gold sprinkled resin. This reforms the broken piece while adding to its beauty. Similar is the case for us, we can either remain broken with failures or can use our failures as ornaments to refine us. This ingenious idea is linked with our perception. Having the right perception along with conviction are the characteristics of an un-failable person.
 
-|                                                                                                                                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [_![](https://wpmedia.japanesegarden.org/cb:x8nE.2f3ba/w:auto/h:auto/q:mauto/ig:avif/id:92b210033c21e747673b9cc7973ebb3d/https://japanesegarden.org/2-art.jpg)_](https://www.blogger.com/blog/post/edit/686967515546840335/6368748043129491065#) |
-| <p align="center">"Timeless Magic", 2023 Taisho era (1912-1926). Black Raku ware, Urushi lacquer, 24K gold, and resin, Photo by Noko Fukumaru </p>                                                                                               |
+<p align="center">
+<img src="https://wpmedia.japanesegarden.org/cb:x8nE.2f3ba/w:auto/h:auto/q:mauto/ig:avif/id:92b210033c21e747673b9cc7973ebb3d/https://japanesegarden.org/2-art.jpg" alt="Kintsugi" width="400"/>
+<br>
+<i>"Timeless Magic", 2023 Taisho era (1912-1926). Black Raku ware, Urushi lacquer, 24K gold, and resin, Photo by Noko Fukumaru</i>
+</p>
 
 _"Defectum"_ or _"one with defect"_ is actually a matter of one's perception. The example of Kintsugi helps understand that what we perceive as _"defective"_ may also be _"beautiful_". Our understanding of failure is a mere perception - _"Defectum est sensus" or_ "_failure is perception"_. The words of the legendary Stioc emperor Marcul Arelius are of importance in this regard - _"... nature's inadvertence has its own beauty"_. This is exactly the maxim that defines the philosophical concept of "_Wabi Sabi",_ loosely translated as _"imperfect imperfection"._
 
